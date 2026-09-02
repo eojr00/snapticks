@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Snapticks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0af723c68497891fb15cbfd024736498c581228")]
 [assembly: System.Reflection.AssemblyProductAttribute("Snapticks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Snapticks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
